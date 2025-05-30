@@ -1,5 +1,5 @@
 # Seoul_bike_sharing
-## Analyzing bike sharing demand trend in Seoul 2018
+## Analyzing Bike Sharing Demand Trend in Seoul 2018
 
 A descriptive analysis to identify the peak and off-peak periods of bike rental based on times and weather conditions. The goal is to help optimize bike distribution and availability, especially during times of high demand.
 
